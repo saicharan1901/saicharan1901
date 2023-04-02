@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saicharan1901&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 <h1 align="center">
@@ -21,7 +19,9 @@
 👋 Hi there! I'm a frontend developer who loves to create beautiful and functional user interfaces. 💻 When I'm not coding, you can find me jamming on my keyboard 🎹 or breaking a sweat playing sports 🏀⚽️. I also enjoy watching anime 🍿 and exploring new technologies.
 
 Open to collaborate on projects. Contact me via email or social media listed on my GitHub profile. Let's create something awesome together! 👨‍💻🤝
+
 ---
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saicharan1901&theme=dark&mode=weekly)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
