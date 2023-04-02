@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hey there! Welcome to My Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -36,7 +36,7 @@ Open to collaborate on projects. Contact me via email or social media listed on 
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" **alt="Next" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="Python" **alt="Python" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
