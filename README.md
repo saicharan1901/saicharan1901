@@ -14,7 +14,7 @@
 </h1>
 
 ---
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 👋 Hi there! I'm a frontend developer who loves to create beautiful and functional user interfaces. 💻 When I'm not coding, you can find me jamming on my keyboard 🎹 or breaking a sweat playing sports 🏀⚽️. I also enjoy watching anime 🍿 and exploring new technologies.
 
