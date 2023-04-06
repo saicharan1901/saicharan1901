@@ -25,7 +25,7 @@ Open to collaborate on projects. Contact me via email or social media listed on 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saicharan1901&theme=buefy-dark&border_radius=50&mode=weekly)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishthap981&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
